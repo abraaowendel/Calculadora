@@ -3,8 +3,8 @@
 </h1>
 
 <h4 align="center">
-  Calculadora com as operações.
-  Soma, Subtraí, Divide e Multiplica.
+  Calculadora com as operações. <br>
+  Adição, Subtração, Divisão e Multiplicação.
 </h4>
 
 <h4 align="center"><a href="https://abraaowendel.github.io/Calculadora/" target="_blank">Clique para visitar o projeto</a></h4>
