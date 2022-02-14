@@ -15,7 +15,7 @@ function calcular(){
 
 function limparTudo(){
     let resultado = document.getElementById('resultado').innerHTML;
-    document.getElementById('resultado').innerHTML = ''
+    document.getElementById('resultado').innerHTML = '';
 }
 
 function limpaUltimo(){
@@ -28,4 +28,4 @@ forEach(b => b.addEventListener('click', () => inserirNumero(b.value)))
 document.querySelector('#calcular').addEventListener('click', calcular)
 document.querySelector('#limpaTudo').addEventListener('click', limparTudo)
 document.querySelector('#limpaUltimo').addEventListener('click', limpaUltimo)
-document.querySelector('#calcular').addEventListener('dblclick', limparTudo)
+    
